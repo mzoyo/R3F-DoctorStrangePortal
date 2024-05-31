@@ -176,9 +176,9 @@ const Portal = ({ texture, floor = 0, position = [0, 10, 0] }) => {
           transparent
           opacity={portalOpacity}
         >
-          <mesh>
+          <mesh rotation={[0, Math.PI, 0]}>
             <ambientLight intensity={1} />
-            <sphereGeometry args={[4.9, 32, 32]} />
+            <sphereGeometry args={[15, 32, 32]} />
             <meshStandardMaterial
               map={map}
               side={THREE.BackSide}

@@ -2,7 +2,7 @@
 
 This repository contains the code for creating a dynamic, animated particle portal effect using React and Three.js. The effect is inspired by Dr. Strange's portals and is designed to be used in 3D scenes.
 
-[![Dr. Strange Portal](/dr-strange-portal.gif)](https://codesandbox.io/p/sandbox/r3f-doctor-strange-portal-nvjpx2)
+[![Dr. Strange Portal](/drstrange.gif)](https://codesandbox.io/p/sandbox/r3f-doctor-strange-portal-nvjpx2)
 
 ## Description
 
